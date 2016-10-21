@@ -4,13 +4,16 @@ electives = ["photography", "ceramics", "music", "robotics", "web development", 
 #code your solutions
 
 #1: Create a method called count_items that takes an array as an argument and RETURNS (don't use puts) the number of items in the array. Take a look through the Ruby documentation to see if there is an array method built in to ruby that can help you count the items. 
-def count_items(electives)
+def count_items(array)
+
+end
+puts count_items(electives)
+#2: Create a method called first_item that takes an array as an argument and returns the first item in the array.
+def
 
 end
 
-#2: Create a method called first_item that takes an array as an argument and returns the first item in the array.
-
-
+puts first_item(electives)
 #3: Create a method called last_item that takes an array as an argument and returns the last item in the array. 
 
 
